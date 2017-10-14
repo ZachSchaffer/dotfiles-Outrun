@@ -1,0 +1,47 @@
+[options]
+#font= Inconsolata for Powerline Regular 12
+font= Ubuntu Mono derivative Powerline 12
+clickable_url = true
+padding = 0
+
+
+[colors]
+
+# special
+foreground      = #ffd5e7
+foreground_bold = #ffd5e7
+cursor          = #ffd5e7
+#background      = #313131
+background      = #2b2836
+
+# black
+color0  = #313131
+color8  = #bd96f6
+
+# red
+color1  = #ffb5d5
+color9  = #ffd5e7
+
+# green
+color2  = #91f8eb
+color10 = #aaf5ec
+
+# yellow
+color3  = #f9ff9c
+color11 = #fbffb9
+
+# blue
+color4  = #bd96f6
+color12 = #d5b8ff
+
+# magenta
+color5  = #ffa7f6
+color13 = #ffd2fa
+
+# cyan
+color6  = #95fca5
+color14 = #c2f6ca
+
+# white
+color7  = #c8a3fc
+color15 = #d4b6ff
